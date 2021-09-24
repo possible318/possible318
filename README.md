@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![菜狗's github stats](https://github-readme-stats.vercel.app/api?username=Dishesdog)](https://github.com/Dishesdog/ '菜狗的信息')
 
-<img src="https://badges.toozhao.com/badges/01EJWJV1BRF0GW9JVCGGNKTSDY/blue.svg" width=400/>
+<img src="https://badges.toozhao.com/badges/01FGAZ5J37PNJW115GMYEGDASM/orange.svg" />
