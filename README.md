@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ![Metrics](https://metrics.lecoq.io/Dishesdog?template=classic&config.timezone=Asia%2FShanghai)
 
 
-
-![Dishesdog's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishesdog&layout=compact&hide_border=true&langs_count=10)
+<!-- 
+![Dishesdog's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishesdog&layout=compact&hide_border=true&langs_count=10) -->
 
 
 ![菜狗's GitHub stats](https://github-readme-stats-qniyov4vc-dishesdog.vercel.app/api?username=Dishesdog&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light)
