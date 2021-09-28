@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-
+<!-- 
 ![Metrics](https://metrics.lecoq.io/Dishesdog?template=classic&config.timezone=Asia%2FShanghai)
-
+ -->
 
 <!-- 
 ![Dishesdog's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishesdog&layout=compact&hide_border=true&langs_count=10) -->
