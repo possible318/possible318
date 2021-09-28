@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div>
   
-    <img src="http://sayuri.fumiama.top/cmoe?name=Dishesdog&theme=r34" />
+<img src="http://sayuri.fumiama.top/cmoe?name=Dishesdog&theme=r34"/>
   
 <a href="https://github.com/Dishesdog">
   <img align="center" alt="Top Langs" src="https://github-readme-stats-qniyov4vc-dishesdog.vercel.app/api?username=Dishesdog&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light" />
