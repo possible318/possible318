@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ---
 
 <div>
-  
+  <p align="center" >
 <img src="http://sayuri.fumiama.top/cmoe?name=Dishesdog&theme=r34"/>
-  
+  </p>
 <a href="https://github.com/Dishesdog">
   <img align="center" alt="Top Langs" src="https://github-readme-stats-qniyov4vc-dishesdog.vercel.app/api?username=Dishesdog&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light" />
 </a>
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 </a>
 
 ---
-<p align="center" >  
+<!-- <p align="center" >  
 <a href="https://github.com/Dishesdog">
     <img align="center" alt="Page View" src="https://badges.toozhao.com/badges/01FGAZ5J37PNJW115GMYEGDASM/blue.svg" />
-</a>
-</p>
+</a> 
+</p> -->
 </div>
