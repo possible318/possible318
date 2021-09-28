@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 ---
 
-![菜狗's GitHub stats](https://github-readme-stats-qniyov4vc-dishesdog.vercel.app/api?username=Dishesdog&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light)
+<div>
+<a href="https://github.com/Dishesdog">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats-qniyov4vc-dishesdog.vercel.app/api?username=Dishesdog&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light" />
+</a>
 
 <a href="https://github.com/Dishesdog">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishesdog&layout=compact&langs_count=8&theme=solarized-light" />
@@ -27,3 +30,4 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://badges.toozhao.com/badges/01FGAZ5J37PNJW115GMYEGDASM/blue.svg" />
 </p>
+</div>
