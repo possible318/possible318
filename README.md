@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 <p align="center" >
     <img src="http://sayuri.fumiama.top/cmoe?name=Dishesdog&theme=r34"/>
 </p>
-
+  
 ---
 
 <div>
+ 
   <a href="https://github.com/Dishesdog">
-    <img align="center" alt="Top Langs" src="https://github-readme-stats-qniyov4vc-dishesdog.vercel.app/api?username=Dishesdog&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light" />
+    <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=Dishesdog&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light" />
   </a>
 
   <a href="https://github.com/Dishesdog">
@@ -32,7 +33,8 @@ Here are some ideas to get you started:
 </div>
 
 ---
-<!-- <p align="center" >  
+<!-- <p align="center" > 
+  https://github-readme-stats.vercel.app/api?username=Ice-Cirno&show_icons=true&include_all_commits=true"
 <a href="https://github.com/Dishesdog">
     <img align="center" alt="Page View" src="https://badges.toozhao.com/badges/01FGAZ5J37PNJW115GMYEGDASM/blue.svg" />
 </a> 
