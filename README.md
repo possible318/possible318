@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <p align="center" >
     <img src="http://sayuri.fumiama.top/cmoe?name=Dishesdog&theme=r34"/>
 </p>
   
+-->
+
 ---
 
 <div>
